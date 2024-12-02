@@ -38,7 +38,7 @@
 
 ### According to Python Programming Assignment 07:
 
-### Step 1- Gather User Information
+### This is function to cover the stpes:
 
 > The user for their name and their three favorite numbers.
 
@@ -62,15 +62,21 @@ def is_prime(n):
 
 def main():
 
-    # Step 1: Gather user information
+```
+
+[Back to contents of table](#contents-of-table)
+
+### Step 1: Gather user information
+
+```python
+ # Step 1: Gather user information
 
     name = input("Hello! What's your name? ")
 
     print(f"Nice to meet you, {name}!")
 
 ```
-
-[Back to contents of table](#contents-of-table)
+[Back to contents of table](#content-of-table)
 
 ### Step 2: Store Numbers in a List
 
